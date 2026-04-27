@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Auto+Dog+Photographer;AI+Powered+Pet+Camera;Built+with+OpenCV+and+YOLO" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Auto+Dog+Photographer" />
 </p>
 
 <h3 align="center">🐶📸 AI Powered Smart Pet Camera</h3>
