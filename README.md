@@ -92,3 +92,46 @@ The system:
 ```bash
 git clone https://github.com/M-Nivetha7/Auto_Dog_Photograher.git
 cd Auto_Dog_Photograher
+```
+
+### 2. Create virtual environment
+```
+python -m venv venv
+source venv/bin/activate
+```
+
+### 3. Install dependencies
+```
+pip install -r requirements.txt
+```
+### 4. Run the project
+```
+python main.py
+```
+---
+
+## 📸 Usage
+
+- Place your dog in front of the camera 🐶  
+- Ensure:
+  - centered 🎯  
+  - still 🧘  
+- System captures automatically 📸  
+
+---
+
+## 🐾 Inspiration
+
+Built out of curiosity and boredom, turned into a fun AI project.  
+Now my dog gets better photos than me 😄  
+
+---
+
+## 👩‍💻 Author
+
+**M. Nivetha**  
+AI & ML Undergraduate | Computer Vision Enthusiast 👁️  
+
+---
+
+⭐ Star the repo if you like it!
