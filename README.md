@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=4CAF50&center=true&vCenter=true&width=700&lines=Auto+Dog+Photographer+🐶📸" alt="Auto Dog Photographer animated title" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Auto+Dog+Photographer;AI+Powered+Pet+Camera;Built+with+OpenCV+and+YOLO" />
 </p>
 
 <h3 align="center">🐶📸 AI Powered Smart Pet Camera</h3>
